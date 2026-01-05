@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ajwanet5-hue.github.io/sitemap.xml
